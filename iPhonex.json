@@ -70,6 +70,12 @@
 		"nama_cat": "iOS Wallpaper",
 		"gambar": "file:///android_asset/gambar/img6.jpg"
      
+    },
+			{
+		"id": 2,
+		"nama_cat": "Added New",
+		"gambar": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+     
     }
 	
 	],
@@ -463,6 +469,321 @@
       "nama_cat": "iOS Wallpaper",
       "judul":"iOS Wallpaper",
       "image":"file:///android_asset/gambar/img55.jpg"
+    },
+	{
+      "id":56,
+      "id_wall":"56",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":57,
+      "id_wall":"57",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1366907/pexels-photo-1366907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":58,
+      "id_wall":"58",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1141792/pexels-photo-1141792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":59,
+      "id_wall":"59",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1723637/pexels-photo-1723637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":60,
+      "id_wall":"60",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1612461/pexels-photo-1612461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+	    {
+      "id":61,
+      "id_wall":"61",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":62,
+      "id_wall":"62",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1376766/nature-milky-way-galaxy-space-1376766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":63,
+      "id_wall":"63",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":64,
+      "id_wall":"64",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1367105/pexels-photo-1367105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":65,
+      "id_wall":"65",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":66,
+      "id_wall":"66",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/775203/pexels-photo-775203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+	    {
+      "id":67,
+      "id_wall":"67",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1699020/pexels-photo-1699020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":68,
+      "id_wall":"68",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":69,
+      "id_wall":"69",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1366630/pexels-photo-1366630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":70,
+      "id_wall":"70",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3894157/pexels-photo-3894157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":71,
+      "id_wall":"71",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3849168/pexels-photo-3849168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":72,
+      "id_wall":"72",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3849167/pexels-photo-3849167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+	    {
+      "id":73,
+      "id_wall":"73",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1366909/pexels-photo-1366909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":74,
+      "id_wall":"74",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3881034/pexels-photo-3881034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":75,
+      "id_wall":"75",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2397652/pexels-photo-2397652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":76,
+      "id_wall":"76",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2362002/pexels-photo-2362002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":77,
+      "id_wall":"77",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1029596/pexels-photo-1029596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":78,
+      "id_wall":"78",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2567011/pexels-photo-2567011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+	    {
+      "id":79,
+      "id_wall":"79",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3838850/pexels-photo-3838850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":80,
+      "id_wall":"80",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1859622/pexels-photo-1859622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":81,
+      "id_wall":"81",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/36729/tulip-flower-bloom-pink.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":82,
+      "id_wall":"82",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1578105/pexels-photo-1578105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":83,
+      "id_wall":"83",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2526097/pexels-photo-2526097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":84,
+      "id_wall":"84",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1624497/pexels-photo-1624497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+	    {
+      "id":85,
+      "id_wall":"85",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2058498/pexels-photo-2058498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":86,
+      "id_wall":"86",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3881036/pexels-photo-3881036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":87,
+      "id_wall":"87",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/45839/antelope-canyon-arizona-sandstone-rock-45839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":88,
+      "id_wall":"88",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3894805/pexels-photo-3894805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":89,
+      "id_wall":"89",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2184346/pexels-photo-2184346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":90,
+      "id_wall":"90",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2261493/pexels-photo-2261493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+	    {
+      "id":91,
+      "id_wall":"91",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3116422/pexels-photo-3116422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":92,
+      "id_wall":"92",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2445890/pexels-photo-2445890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":93,
+      "id_wall":"93",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1595655/pexels-photo-1595655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":94,
+      "id_wall":"94",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3584283/pexels-photo-3584283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":95,
+      "id_wall":"95",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2953902/pexels-photo-2953902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":96,
+      "id_wall":"96",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1699023/pexels-photo-1699023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+	    {
+      "id":97,
+      "id_wall":"97",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/274021/pexels-photo-274021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":98,
+      "id_wall":"98",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/2406382/pexels-photo-2406382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":99,
+      "id_wall":"99",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/1425353/pexels-photo-1425353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":100,
+      "id_wall":"100",
+      "nama_cat": "Added New",
+      "judul":"Added New",
+      "image":"https://images.pexels.com/photos/3372408/pexels-photo-3372408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
     }
 
 	]
