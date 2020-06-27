@@ -13,11 +13,11 @@
         "deskripsi_promote": "playing connecting matching fruit which is very exciting",
         "gambar_promote": "https://lh3.googleusercontent.com/sSiR0NsR04vdLPjb7rh9tvNmlY-wXBD9P4-CFRTKOWRXZ8mGBvODSF6ih44hrbPeYug=w2133-h1076-rw",
         "link_promote": "https://play.google.com/store/apps/details?id=com.nt.onet.classic.games",
-        "status_promote": "1",
+        "status_promote": "0",
         
         "interval": 3,
         "inter_splash":"0",
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"0",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
