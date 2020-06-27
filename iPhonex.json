@@ -13,11 +13,11 @@
         "deskripsi_promote": "Relax at home and playing block puzzle",
         "gambar_promote": "https://lh3.googleusercontent.com/rx7IEcvKfriBMBaUMR-2ji1Jn59Y6APOJIX6by66RJ9uFXPCCaVihyKRU-tZpN2UmJpM=w2133-h1076-rw",
         "link_promote": "https://play.google.com/store/apps/details?id=com.joinstudio.blockpuzzle.fun",
-        "status_promote": "1",
+        "status_promote": "0",
         
         "interval": 3,
         "inter_splash":"0",
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"0",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
