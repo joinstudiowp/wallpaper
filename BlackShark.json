@@ -4,9 +4,9 @@
         "link": "https://play.google.com/store/apps/details?id=com.",
         
         "appid": "pub-4325851255614417",
-        "admobappid": "ca-app-pub-4325851255614417~1912779873",
-        "interid": "ca-app-pub-4325851255614417/4894166436",
-        "nativeid": "ca-app-pub-4325851255614417/4966256888",
+        "admobappid": "ca-app-pub-4325851255614417~4607849990",
+        "interid": "ca-app-pub-4325851255614417/7174303580",
+        "nativeid": "ca-app-pub-4325851255614417/5604117330",
         
         "icon_promote": "https://lh3.googleusercontent.com/MEHhkmv4IRFgk_JBAT1r9fRUEkSshZ6U5QAX1GFIJNtgxWNF5Ht-BHjYRYzM-IMMkrE=s180-rw",
         "judul_promote": "Block Puzzle - New Jewels game 2020 Free",
@@ -17,7 +17,7 @@
         
         "interval": 3,
         "inter_splash":"0",
-        "pengaturan_iklan":"0",
+        "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
