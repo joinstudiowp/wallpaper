@@ -4,9 +4,9 @@
         "link": "https://play.google.com/store/apps/details?id=com.",
         
         "appid": "pub-4325851255614417",
-        "admobappid": "ca-app-pub-4325851255614417~1912779873",
-        "interid": "ca-app-pub-4325851255614417/4894166436",
-        "nativeid": "ca-app-pub-4325851255614417/4966256888",
+        "admobappid": "ca-app-pub-4325851255614417~5327380194",
+        "interid": "ca-app-pub-4325851255614417/8827641503",
+        "nativeid": "ca-app-pub-4325851255614417/9389273500",
         
        "icon_promote": "https://lh3.googleusercontent.com/btAoUY2jUWZ2rZhoRnWL74fpr6G3WoDpzf-15MBwME-21lTrTFmIngYpgI2Y-LEvnZc=s180-rw",
         "judul_promote": "ONET 2020 New - Fruits Connect",
@@ -17,7 +17,7 @@
         
         "interval": 3,
         "inter_splash":"0",
-        "pengaturan_iklan":"0",
+        "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
