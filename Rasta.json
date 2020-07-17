@@ -42,20 +42,92 @@
     {
       "id":1,
       "judul":"",
-      "image":"https://lh3.googleusercontent.com/MEHhkmv4IRFgk_JBAT1r9fRUEkSshZ6U5QAX1GFIJNtgxWNF5Ht-BHjYRYzM-IMMkrE=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.blockpuzzle.fun"
+      "image":"https://lh3.googleusercontent.com/Cv-CF8tXOHrJquaQWUEQ-5UqhKlLNbV-W7TDMZYRokAtcL30X06kIVZSEUjaK0GEbCtl=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.iOS13WallpaperiPhone"
     },
     {
       "id":2,
       "judul":"",
-      "image":"https://lh3.googleusercontent.com/GJe0EKx21JKE19sRGyIUwseKZ8Dd_T3mL7p4ta94BeMAKAGdl1xC2F95_g9AWf7KB0w=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.JoinStudio.TTS"
+      "image":"https://lh3.googleusercontent.com/rHxnVn6ZD1Af5qXTVFfLzScjP0P0zKtgWy5gAba7kkjDXon7Eh6jcQDv5j0zTdbKiFc=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.BlackSharkWallpaper"
     },
     {
       "id":3,
       "judul":"",
-      "image":"https://lh3.googleusercontent.com/btAoUY2jUWZ2rZhoRnWL74fpr6G3WoDpzf-15MBwME-21lTrTFmIngYpgI2Y-LEvnZc=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.nt.onet.classic.games"
+      "image":"https://lh3.googleusercontent.com/LKdj8SAS51CbvFQegJ3752H67cg50FrB8K6eFvyl22VUp97g6T3MfEsL8wMNiLtqjOQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.ColorfulWallpapers"
+    },
+	{
+      "id":4,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/OwtXdD8L8ALAehGGsQd2BO3cDxkfUZUtYRTZPSPeHZup1nSIqtrOxIVg40CVOmSUp2Sx=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.SadBoyWallpapers"
+    },
+    {
+      "id":5,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/2yyQ6OLPghSCxfh2GGp9ylWCxUzJfcEujYeqgnGusdPJSh1zdEuK_cajPZ2qQB4i=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.AbstractWallpapers"
+    },
+    {
+      "id":6,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/YgtU0QwESwQNG4Ix1SdaPJY1gXrkeVkBDmghsVNo2JfTKUrdjYX023eCQDWPE0h-jD4=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.LonelyGirlWallpapers"
+    },
+	{
+      "id":7,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/7kVt5XosamThN7Dsi84TTVvB5kcxCfeApfLvuK11yvKiTtTSoueJc3lMpNnQ7PTCuuU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.GalaxyWallpapers"
+    },
+    {
+      "id":8,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/32qZhGm5c1cPOVGH2iV5nMeSbn9cww2fbAZsgG_38PeWUy6ROp6PhvUD20o1MLvf0A=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.DarkBlackWallpapers"
+    },
+    {
+      "id":9,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/C3fubNErzvvaMiq9LlH6tt5AL9lbxIqFCZnAkhuwo1Iq9_pwxi0VFxP8gIGA8FVMk9o=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.AmoledWallpapers"
+    },
+	{
+      "id":10,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/uYYnegXAxCVyRHIspgnGT62dUNR2XrGfhbQmQhKDw28L1k_2YOdxYs4UnMUgqPd_RB8=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.LedPurgeMaskWallpapers"
+    },
+    {
+      "id":11,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/_qtvNRhGyJJhb0ozzxhtauNBGlfp6rVtXnCsAZqo41dYz6GNZR5A8tZZekM_ToagNfY=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.PurpleWallpapers"
+    },
+    {
+      "id":12,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/vPDpHbeTONZolvINCl3PtcrpogOGfC-NwCCm_CZ79PD90zWe-eJgI-dnb1nUyM6HtD8=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.JapaneseWallpapers"
+    },
+	{
+      "id":13,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/P9gx6rxLoMmhWh8cl3GNPnMQMkgjCfYDrBqodOoZAWrq9IZP13Lz3US0aeTeuZILG2k=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.FOXWallpapers"
+    },
+    {
+      "id":14,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/2nm6av0LCDE0MUBWyHyJmEC1jhGmEMhrL4XgQC5-O6mL2n4ER3cCDoP9OFWwVV2LEg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.BlackWhiteWallpapers"
+    },
+    {
+      "id":15,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/8xadb5q0yU_uPD6NH14zzcvVFbuB4rmSU3oqbIAyHrHcWPUHlZOc_YJZbE2m4l2UBSs=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.GraffitiWallpapers"
     }
 	
 	],
