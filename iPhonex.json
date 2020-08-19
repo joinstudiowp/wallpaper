@@ -13,15 +13,15 @@
         "deskripsi_promote": "play 8 ball billiard, 9 ball, and snooker ball",
         "gambar_promote": "https://1.bp.blogspot.com/-0AH8UZI_F-Q/Xzg2opJN8MI/AAAAAAAAAOo/Id0SGgwUUX4h8jMHGOvgMicNzLWRxMDBQCLcBGAsYHQ/w561-h1000/billiard%2Bpromote.png",
         "link_promote": "https://play.google.com/store/apps/details?id=com.master.billiard.offline",
-        "status_promote": "1",
+        "status_promote": "0",
         
         "interval": 3,
         "inter_splash":"0",
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"2",
         
-        "fan_inter":"981545408591412_999151030164183",
-        "fan_banner_native":"981545408591412_2709037092508893",
-        "fan_native":"981545408591412_1232226853523265",
+        "fan_inter":"301576187769977_301577391103190",
+        "fan_banner_native":"301576187769977_301577241103205",
+        "fan_native":"301576187769977_301576921103237",
         
         "inmobi_inter": 1584260716256,
         "inmobi_banner":1586126155425,
