@@ -1,0 +1,499 @@
+{	"Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+        
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "nativeid": "",
+        
+        "icon_promote": "https://lh3.googleusercontent.com/aebdbLx0BTVf4IOKBLNfn4sAgH1xVr7egimeiE1yfbUvas-pO87YCNiLN4G8bFVJhXE=s180-rw",
+        "judul_promote": "Master Billiard (offline & online)",
+        "deskripsi_promote": "play 8 ball billiard, 9 ball, and snooker ball",
+        "gambar_promote": "https://1.bp.blogspot.com/-0AH8UZI_F-Q/Xzg2opJN8MI/AAAAAAAAAOo/Id0SGgwUUX4h8jMHGOvgMicNzLWRxMDBQCLcBGAsYHQ/w561-h1000/billiard%2Bpromote.png",
+        "link_promote": "https://play.google.com/store/apps/details?id=com.master.billiard.offline",
+        "status_promote": "0",
+        
+        "interval": 3,
+        "inter_splash":"0",
+        "pengaturan_iklan":"0",
+        
+        "fan_inter":"",
+        "fan_banner_native":"",
+        "fan_native":"",
+        
+        "inmobi_inter": 1584260716256,
+        "inmobi_banner":1586126155425,
+        "inmobi_id":"fe76b5f0cb4e4a65b134304c78b1cb94",
+        
+        
+         "startaap":"210552149"
+        
+      
+       
+
+        }
+    ],
+
+	"More":
+	[	
+	
+    {
+      "id":1,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/Cv-CF8tXOHrJquaQWUEQ-5UqhKlLNbV-W7TDMZYRokAtcL30X06kIVZSEUjaK0GEbCtl=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.iOS13WallpaperiPhone"
+    },
+    {
+      "id":2,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/rHxnVn6ZD1Af5qXTVFfLzScjP0P0zKtgWy5gAba7kkjDXon7Eh6jcQDv5j0zTdbKiFc=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.BlackSharkWallpaper"
+    },
+    {
+      "id":3,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/LKdj8SAS51CbvFQegJ3752H67cg50FrB8K6eFvyl22VUp97g6T3MfEsL8wMNiLtqjOQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.ColorfulWallpapers"
+    },
+	{
+      "id":4,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/OwtXdD8L8ALAehGGsQd2BO3cDxkfUZUtYRTZPSPeHZup1nSIqtrOxIVg40CVOmSUp2Sx=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.SadBoyWallpapers"
+    },
+    {
+      "id":5,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/2yyQ6OLPghSCxfh2GGp9ylWCxUzJfcEujYeqgnGusdPJSh1zdEuK_cajPZ2qQB4i=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.AbstractWallpapers"
+    },
+    {
+      "id":6,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/YgtU0QwESwQNG4Ix1SdaPJY1gXrkeVkBDmghsVNo2JfTKUrdjYX023eCQDWPE0h-jD4=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.LonelyGirlWallpapers"
+    },
+	{
+      "id":7,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/7kVt5XosamThN7Dsi84TTVvB5kcxCfeApfLvuK11yvKiTtTSoueJc3lMpNnQ7PTCuuU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.GalaxyWallpapers"
+    },
+    {
+      "id":8,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/32qZhGm5c1cPOVGH2iV5nMeSbn9cww2fbAZsgG_38PeWUy6ROp6PhvUD20o1MLvf0A=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.DarkBlackWallpapers"
+    },
+    {
+      "id":9,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/C3fubNErzvvaMiq9LlH6tt5AL9lbxIqFCZnAkhuwo1Iq9_pwxi0VFxP8gIGA8FVMk9o=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.AmoledWallpapers"
+    },
+	{
+      "id":10,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/uYYnegXAxCVyRHIspgnGT62dUNR2XrGfhbQmQhKDw28L1k_2YOdxYs4UnMUgqPd_RB8=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.LedPurgeMaskWallpapers"
+    },
+    {
+      "id":11,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/_qtvNRhGyJJhb0ozzxhtauNBGlfp6rVtXnCsAZqo41dYz6GNZR5A8tZZekM_ToagNfY=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.PurpleWallpapers"
+    },
+    {
+      "id":12,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/vPDpHbeTONZolvINCl3PtcrpogOGfC-NwCCm_CZ79PD90zWe-eJgI-dnb1nUyM6HtD8=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.JapaneseWallpapers"
+    },
+	{
+      "id":13,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/P9gx6rxLoMmhWh8cl3GNPnMQMkgjCfYDrBqodOoZAWrq9IZP13Lz3US0aeTeuZILG2k=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.FOXWallpapers"
+    },
+    {
+      "id":14,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/2nm6av0LCDE0MUBWyHyJmEC1jhGmEMhrL4XgQC5-O6mL2n4ER3cCDoP9OFWwVV2LEg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.BlackWhiteWallpapers"
+    },
+    {
+      "id":15,
+      "judul":"",
+      "image":"https://lh3.googleusercontent.com/8xadb5q0yU_uPD6NH14zzcvVFbuB4rmSU3oqbIAyHrHcWPUHlZOc_YJZbE2m4l2UBSs=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.joinstudio.GraffitiWallpapers"
+    }
+	
+	],
+	
+	
+	
+	"Categories": 
+	[
+    
+	{
+		"id": 1,
+		"nama_cat": "ROG",
+		"gambar": "file:///android_asset/gambar/img6.jpg"
+     
+    }
+	
+	],
+
+
+
+	"Wallpaper":
+	[	
+	
+    {
+      "id":1,
+      "id_wall":"1",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img1.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"2",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img2.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"3",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img3.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"4",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img4.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"5",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img5.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"6",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img6.jpg"
+    },
+    {
+      "id":7,
+      "id_wall":"7",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img7.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"8",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img8.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"9",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img9.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"10",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img10.jpg"
+    },
+    {
+      "id":11,
+      "id_wall":"11",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img11.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"12",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img12.jpg"
+    },
+    {
+      "id":13,
+      "id_wall":"13",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img13.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"14",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img14.jpg"
+    },
+    {
+      "id":15,
+      "id_wall":"15",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img15.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"16",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img16.jpg"
+    },
+    {
+      "id":17,
+      "id_wall":"17",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img17.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"18",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img18.jpg"
+    },
+    {
+      "id":19,
+      "id_wall":"19",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img19.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"20",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img20.jpg"
+    },
+    {
+      "id":21,
+      "id_wall":"21",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img21.jpg"
+    },
+    {
+      "id":22,
+      "id_wall":"22",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img22.jpg"
+    },
+    {
+      "id":23,
+      "id_wall":"23",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img23.jpg"
+    },
+    {
+      "id":24,
+      "id_wall":"24",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img24.jpg"
+    },
+    {
+      "id":25,
+      "id_wall":"25",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img25.jpg"
+    },
+    {
+      "id":26,
+      "id_wall":"26",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img26.jpg"
+    },
+    {
+      "id":27,
+      "id_wall":"27",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img27.jpg"
+    },
+    {
+      "id":28,
+      "id_wall":"28",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img28.jpg"
+    },
+    {
+      "id":29,
+      "id_wall":"29",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img29.jpg"
+    },
+    {
+      "id":30,
+      "id_wall":"30",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img30.jpg"
+    },
+    {
+      "id":31,
+      "id_wall":"31",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img31.jpg"
+    },
+    {
+      "id":32,
+      "id_wall":"32",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img32.jpg"
+    },
+    {
+      "id":33,
+      "id_wall":"33",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img33.jpg"
+    },
+    {
+      "id":34,
+      "id_wall":"34",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img34.jpg"
+    },
+    {
+      "id":35,
+      "id_wall":"35",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img35.jpg"
+    },
+    {
+      "id":36,
+      "id_wall":"36",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img36.jpg"
+    },
+    {
+      "id":37,
+      "id_wall":"37",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img37.jpg"
+    },
+    {
+      "id":38,
+      "id_wall":"38",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img38.jpg"
+    },
+    {
+      "id":39,
+      "id_wall":"39",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img39.jpg"
+    },
+    {
+      "id":40,
+      "id_wall":"40",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img40.jpg"
+    },
+    {
+      "id":41,
+      "id_wall":"41",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img41.jpg"
+    },
+    {
+      "id":42,
+      "id_wall":"42",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img42.jpg"
+    },
+    {
+      "id":43,
+      "id_wall":"43",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img43.jpg"
+    },
+    {
+      "id":44,
+      "id_wall":"44",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img44.jpg"
+    },
+    {
+      "id":45,
+      "id_wall":"45",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img45.jpg"
+    },
+    {
+      "id":46,
+      "id_wall":"46",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img46.jpg"
+    },
+    {
+      "id":47,
+      "id_wall":"47",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img47.jpg"
+    },
+    {
+      "id":48,
+      "id_wall":"48",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img48.jpg"
+    },
+    {
+      "id":49,
+      "id_wall":"49",
+      "nama_cat": "ROG",
+      "judul":"ROG",
+      "image":"file:///android_asset/gambar/img49.jpg"
+    }
+
+	]
+}
