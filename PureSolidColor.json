@@ -15,13 +15,13 @@
         "link_promote": "https://play.google.com/store/apps/details?id=com.master.billiard.offline",
         "status_promote": "0",
         
-        "interval": 3,
+        "interval": 5,
         "inter_splash":"0",
-        "pengaturan_iklan":"0",
+        "pengaturan_iklan":"2",
         
-        "fan_inter":"",
-        "fan_banner_native":"",
-        "fan_native":"",
+        "fan_inter":"356829702144492_356830252144437",
+        "fan_banner_native":"356829702144492_356830108811118",
+        "fan_native":"356829702144492_356829982144464",
         
         "inmobi_inter": 1584260716256,
         "inmobi_banner":1586126155425,
