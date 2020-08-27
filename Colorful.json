@@ -17,11 +17,11 @@
         
         "interval": 3,
         "inter_splash":"0",
-        "pengaturan_iklan":"0",
+        "pengaturan_iklan":"2",
         
-        "fan_inter":"",
-        "fan_banner_native":"",
-        "fan_native":"",
+        "fan_inter":"1180809572302325_1180809998968949",
+        "fan_banner_native":"1180809572302325_1180809908968958",
+        "fan_native":"1180809572302325_1180809788968970",
         
         "inmobi_inter": 1584260716256,
         "inmobi_banner":1586126155425,
