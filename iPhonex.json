@@ -16,8 +16,8 @@
         "status_promote": "0",
         
         "interval": 4,
-        "inter_splash":"1",
-        "pengaturan_iklan":"2",
+        "inter_splash":"0",
+        "pengaturan_iklan":"0",
         
         "fan_inter":"301576187769977_301577391103190",
         "fan_banner_native":"301576187769977_301577241103205",
