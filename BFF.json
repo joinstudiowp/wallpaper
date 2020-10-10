@@ -16,7 +16,7 @@
         "status_promote": "0",
         
         "interval": 4,
-        "inter_splash":"1",
+        "inter_splash":"0",
         "pengaturan_iklan":"3",
         
         "fan_inter":"",
