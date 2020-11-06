@@ -5,8 +5,8 @@
         
         "appid": "pub-4325851255614417",
         "admobappid": "ca-app-pub-4325851255614417~9379710811",
-        "interid": "ca-app-pub-4325851255614417/4243413139",
-        "nativeid": "ca-app-pub-4325851255614417/3145662305",
+        "interid": "ca-app-pub-4325851255614417/5118103349",
+        "nativeid": "ca-app-pub-4325851255614417/3701574739",
         
         "icon_promote": "https://lh3.googleusercontent.com/aebdbLx0BTVf4IOKBLNfn4sAgH1xVr7egimeiE1yfbUvas-pO87YCNiLN4G8bFVJhXE=s180-rw",
         "judul_promote": "Master Billiard (offline & online)",
@@ -15,9 +15,9 @@
         "link_promote": "https://play.google.com/store/apps/details?id=com.master.billiard.offline",
         "status_promote": "0",
         
-        "interval": 3,
-        "inter_splash":"1",
-        "pengaturan_iklan":"2",
+        "interval": 5,
+        "inter_splash":"0",
+        "pengaturan_iklan":"1",
         
         "fan_inter":"1630430780481356_1630431277147973",
         "fan_banner_native":"1630430780481356_1630431167147984",
