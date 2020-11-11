@@ -65,33 +65,39 @@
 
     },
     {
-      "id": 1,
+      "id": 2,
       "nama_cat": "iOS 13",
       "gambar": "file:///android_asset/gambar/img16.jpg"
 
     },
     {
-      "id": 1,
+      "id": 3,
       "nama_cat": "iOS 14",
       "gambar": "https://www.setaswall.com/wp-content/uploads/2020/07/iOS-14-Stock-Wallpaper-1420x3073-04.jpg"
 
     },
     {
-      "id": 1,
+      "id": 4,
       "nama_cat": "Nature",
       "gambar": "https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-198.jpg"
 
     },
     {
-      "id": 1,
+      "id": 5,
       "nama_cat": "Motorcycle",
       "gambar": "https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-114.jpg"
 
     },
     {
-      "id": 1,
+      "id": 6,
       "nama_cat": "Moon",
       "gambar": "https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-171.jpg"
+
+    },
+    {
+      "id": 7,
+      "nama_cat": "City",
+      "gambar": "https://www.setaswall.com/wp-content/uploads/2018/04/Doha-City-Wallpaper-1125x2436-768x1663.jpg"
 
     }
   ],
@@ -1070,7 +1076,133 @@
       "nama_cat": "iOS 13",
       "judul":"iOS 13",
       "image":"https://www.setaswall.com/wp-content/uploads/2019/06/Apple-iOS-13-Stock-Wallpaper-08-1242x2208.jpg"
-    } 
+    },
+    	{
+      "id":139,
+      "id_wall":"139",
+      "nama_cat": "City",
+      "judul":"City life",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/City-Life-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":140,
+      "id_wall":"140",
+      "nama_cat": "City",
+      "judul":"City night road",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/City-Night-Raod-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":141,
+      "id_wall":"141",
+      "nama_cat": "City",
+      "judul":"Stitched Panorama",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/City-Night-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":142,
+      "id_wall":"142",
+      "nama_cat": "City",
+      "judul":"Doha City",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Doha-City-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":143,
+      "id_wall":"143",
+      "nama_cat": "City",
+      "judul":"Dubai Lights",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Dubai-Lights-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":144,
+      "id_wall":"144",
+      "nama_cat": "City",
+      "judul":"Fireworks",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Fireworks-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":145,
+      "id_wall":"145",
+      "nama_cat": "City",
+      "judul":"Istanbul",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Istanbul-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":146,
+      "id_wall":"146",
+      "nama_cat": "City",
+      "judul":"London",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/London-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":147,
+      "id_wall":"147",
+      "nama_cat": "City",
+      "judul":"Manarola Night",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Manarola-Night-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":148,
+      "id_wall":"148",
+      "nama_cat": "City",
+      "judul":"Manarola Night",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Manarola-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":149,
+      "id_wall":"149",
+      "nama_cat": "City",
+      "judul":"Marina Bay Sands",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Marina-Bay-Sands-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":150,
+      "id_wall":"150",
+      "nama_cat": "City",
+      "judul":"Mayrhofen Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Mayrhofen-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":151,
+      "id_wall":"151",
+      "nama_cat": "City",
+      "judul":"Nature lake sunset",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Nature-Lake-Sunset-Landscape-Doha-HD-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":152,
+      "id_wall":"152",
+      "nama_cat": "City",
+      "judul":"New York",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/New-York-HD-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":153,
+      "id_wall":"153",
+      "nama_cat": "City",
+      "judul":"Tokyo",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Tokyo-HD-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":154,
+      "id_wall":"154",
+      "nama_cat": "City",
+      "judul":"Venice",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Venice-HD-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":155,
+      "id_wall":"155",
+      "nama_cat": "City",
+      "judul":"Volcano",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Volcano-HD-Wallpaper-1125x2436-768x1663.jpg"
+    },
+		{
+      "id":156,
+      "id_wall":"156",
+      "nama_cat": "City",
+      "judul":"Mini City",
+      "image":"https://www.setaswall.com/wp-content/uploads/2018/04/1125x2436-Wallpaper-24-768x1663.jpg"
+    }  
 
   ]
 }
