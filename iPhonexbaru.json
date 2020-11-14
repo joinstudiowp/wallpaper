@@ -99,6 +99,12 @@
       "nama_cat": "City",
       "gambar": "https://www.setaswall.com/wp-content/uploads/2018/04/Doha-City-Wallpaper-1125x2436-768x1663.jpg"
 
+    },
+    {
+      "id": 8,
+      "nama_cat": "Space",
+      "gambar": "https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-107-1080x2340-768x1664.jpg"
+
     }
   ],
 
@@ -1175,34 +1181,244 @@
       "judul":"New York",
       "image":"https://www.setaswall.com/wp-content/uploads/2018/04/New-York-HD-Wallpaper-1125x2436-768x1663.jpg"
     },
-		{
+	{
       "id":153,
       "id_wall":"153",
       "nama_cat": "City",
       "judul":"Tokyo",
       "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Tokyo-HD-Wallpaper-1125x2436-768x1663.jpg"
     },
-		{
+	{
       "id":154,
       "id_wall":"154",
       "nama_cat": "City",
       "judul":"Venice",
       "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Venice-HD-Wallpaper-1125x2436-768x1663.jpg"
     },
-		{
+	{
       "id":155,
       "id_wall":"155",
       "nama_cat": "City",
       "judul":"Volcano",
       "image":"https://www.setaswall.com/wp-content/uploads/2018/04/Volcano-HD-Wallpaper-1125x2436-768x1663.jpg"
     },
-		{
+	{
       "id":156,
       "id_wall":"156",
       "nama_cat": "City",
       "judul":"Mini City",
       "image":"https://www.setaswall.com/wp-content/uploads/2018/04/1125x2436-Wallpaper-24-768x1663.jpg"
-    }  
+    },
+	{
+      "id":157,
+      "id_wall":"157",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-060-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":158,
+      "id_wall":"158",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-063-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":159,
+      "id_wall":"159",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-064-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":160,
+      "id_wall":"160",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-072-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":161,
+      "id_wall":"161",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-079-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":162,
+      "id_wall":"162",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-070-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":163,
+      "id_wall":"163",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-069-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":164,
+      "id_wall":"164",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-008-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":165,
+      "id_wall":"165",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-010-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":166,
+      "id_wall":"166",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-013-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":167,
+      "id_wall":"167",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-016-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":168,
+      "id_wall":"168",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-021-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":169,
+      "id_wall":"169",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-029-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":170,
+      "id_wall":"170",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-039-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":171,
+      "id_wall":"171",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-037-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":172,
+      "id_wall":"172",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-043-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":173,
+      "id_wall":"173",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-047-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":174,
+      "id_wall":"174",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-051-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":175,
+      "id_wall":"175",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-049-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":176,
+      "id_wall":"176",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-053-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":177,
+      "id_wall":"177",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-113-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":178,
+      "id_wall":"178",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-109-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":179,
+      "id_wall":"179",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-092-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":180,
+      "id_wall":"180",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-107-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":181,
+      "id_wall":"181",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-103-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":182,
+      "id_wall":"182",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-100-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":183,
+      "id_wall":"183",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-096-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":184,
+      "id_wall":"184",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-091-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":185,
+      "id_wall":"185",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-090-1080x2340-768x1664.jpg"
+    },
+	{
+      "id":186,
+      "id_wall":"186",
+      "nama_cat": "Space",
+      "judul":"Outer Space",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/03/Space-Phone-Wallpaper-088-1080x2340-768x1664.jpg"
+    }
 
   ]
 }
