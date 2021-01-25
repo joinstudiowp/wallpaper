@@ -6,7 +6,7 @@
         "interid": "ca-app-pub-4325851255614417/1714539791",
         "nativeid": "ca-app-pub-4325851255614417/7992173531",
         "openads":"ca-app-pub-4325851255614417/8953406577",
-        "interval": 5,
+        "interval": 3,
         "pengaturan_iklan":"1",
         
         "fan_inter":"301576187769977_301577391103190",
@@ -17,11 +17,11 @@
         "inmobi_id":"fe76b5f0cb4e4a65b134304c78b1cb94",
         
         "startaap":"210552149",
-        "hpk_admob1":"Transfer",
-        "hpk_admob2":"Software",
-        "hpk_admob3":"Classes",
-        "hpk_admob4":"Trading",
-        "hpk_admob5":"Hosting"
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
 
         }
     ],
