@@ -15,9 +15,9 @@
         "link_promote": "https://play.google.com/store/apps/details?id=com.master.billiard.offline",
         "status_promote": "1",
         
-        "interval": 4,
+        "interval": 7,
         "inter_splash":"0",
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"4",
         
         "fan_inter":"308941753655666_308942116988963",
         "fan_banner_native":"308941753655666_308942026988972",
